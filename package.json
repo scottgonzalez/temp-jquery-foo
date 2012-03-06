@@ -1,6 +1,6 @@
 {
-	"name": "foo",
-	"version": "0.0.1.a.1",
+	"name": "jquery.foo",
+	"version": "0.0.1.a.2",
 	"title": "The jQuery Foo Plugin",
 	"author": {
 		"name": "Scott González",
