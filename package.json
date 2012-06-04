@@ -1,6 +1,6 @@
 {
 	"name": "jquery.foo",
-	"version": "0.0.1a3",
+	"version": "0.0.1a4",
 	"title": "The jQuery Foo Plugin",
 	"author": {
 		"name": "Scott González",
@@ -12,8 +12,12 @@
 			"url": "http://www.opensource.org/licenses/ISC"
 		}
 	],
-	"dependencies": {
-		"jquery": "1"
+	"jquery": {
+		"dependencies": {
+			"jquery": "1"
+		},
+		"docs": "http://example.com/jquery-foo/docs",
+		"demo": "http://example.com/jquery-foo/demo"
 	},
 	"description": "The most amazing jQuery plugin ever.",
 	"keywords": [
@@ -23,8 +27,6 @@
 		"metasyntactic"
 	],
 	"homepage": "http://example.com/jquery-foo",
-	"docs": "http://example.com/jquery-foo/docs",
-	"demo": "http://example.com/jquery-foo/demo",
 	"maintainers": [
 		{
 			"name": "Scott González",
