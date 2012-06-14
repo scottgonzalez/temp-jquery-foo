@@ -17,7 +17,8 @@
 			"jquery": "1"
 		},
 		"docs": "http://example.com/jquery-foo/docs",
-		"demo": "http://example.com/jquery-foo/demo"
+		"demo": "http://example.com/jquery-foo/demo",
+		"download": "http://example.com/download-the-foo"
 	},
 	"description": "The most amazing jQuery plugin ever.",
 	"keywords": [
