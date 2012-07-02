@@ -1,6 +1,6 @@
 {
-	"name": "jquery.foo",
-	"version": "0.0.1a7",
+	"name": "foo",
+	"version": "0.0.2",
 	"title": "The jQuery Foo Plugin",
 	"author": {
 		"name": "Scott González",
@@ -12,14 +12,12 @@
 			"url": "http://www.opensource.org/licenses/ISC"
 		}
 	],
-	"jquery": {
-		"dependencies": {
-			"jquery": "1"
-		},
-		"docs": "http://example.com/jquery-foo/docs",
-		"demo": "http://example.com/jquery-foo/demo",
-		"download": "http://example.com/download-the-foo"
+	"dependencies": {
+		"jquery": "1"
 	},
+	"docs": "http://example.com/jquery-foo/docs",
+	"demo": "http://example.com/jquery-foo/demo",
+	"download": "http://example.com/download-the-foo",
 	"description": "The most amazing jQuery plugin ever.",
 	"keywords": [
 		"foo",
@@ -37,9 +35,5 @@
 			"name": "Richard D. Worth",
 			"email": "rdworth@gmail.com"
 		}
-	],
-	"files": [
-		"jquery.foo.js",
-		"jquery.foo.css"
 	]
 }
