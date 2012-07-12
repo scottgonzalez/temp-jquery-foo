@@ -1,0 +1,37 @@
+{
+	"name": "color",
+	"title": "jQuery Color",
+	"description": "A jQuery plugin that adds color animation support.",
+	"keywords": [
+		"color",
+		"animation"
+	],
+	"version": "2.0.0pre",
+	"author": {
+		"name": "jQuery Foundation and other contributors",
+		"url": "http://jqueryui.com"
+	},
+	"maintainers": [
+		{
+			"name": "Corey Frang",
+			"email": "gnarf37@gmail.com",
+			"url": "http://gnarf.net"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/MIT"
+		},
+		{
+			"type": "GPL",
+			"url": "http://www.opensource.org/licenses/GPL-2.0"
+		}
+	],
+	"bugs": "https://github.com/jquery/jquery-color/issues",
+	"homepage": "https://github.com/jquery/jquery-color",
+	"docs": "https://github.com/jquery/jquery-color",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
